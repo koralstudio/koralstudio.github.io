@@ -1,0 +1,22 @@
+{
+  "name": "koral-website",
+  "version": "1.0.0",
+  "description": "Koral Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koralstudio/koralstudio.github.io.git"
+  },
+  "author": "Joey van Ommen <joey@messagebird.com> (https://messagebird.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koralstudio/koralstudio.github.io/issues"
+  },
+  "homepage": "https://github.com/koralstudio/koralstudio.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
