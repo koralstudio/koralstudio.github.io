@@ -1,0 +1,17 @@
+{
+  "name": "koral-website",
+  "description": "Koral Website",
+  "main": "index.js",
+  "authors": [
+    "Joey van Ommen <joey@messagebird.com> (https://messagebird.com)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/koralstudio/koralstudio.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
