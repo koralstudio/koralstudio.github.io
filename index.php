@@ -22,10 +22,8 @@
         <p>Hello world! This is HTML5 Boilerplate.</p>
 
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="bower_components/jquery/dist/jquery.fullpage.min.js"></script>
+        <script src="bower_components/fullpage.js/dist/jquery.fullpage.min.js"></script>
 
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
         <script>
