@@ -18,11 +18,32 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
 
-        <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
+        <div id="fullpage">
+	        <div class="section">
+			    <div class="slide"> Slide 1 </div>
+			    <div class="slide"> Slide 2 </div>
+			    <div class="slide"> Slide 3 </div>
+			    <div class="slide"> Slide 4 </div>
+			</div>
+			<div class="section">
+			    <div class="slide"> Slide 1 </div>
+			    <div class="slide"> Slide 4 </div>
+			</div>
+			<div class="section">
+			    <div class="slide"> Slide 1 </div>
+			    <div class="slide"> Slide 2 </div>
+			    <div class="slide"> Slide 3 </div>
+			    <div class="slide"> Slide 4 </div>
+			</div>
+		</div>
 
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
         <script src="bower_components/fullpage.js/dist/jquery.fullpage.min.js"></script>
+        <script type="text/javascript">
+        	$(document).ready(function() {
+			    $('#fullpage').fullpage();
+			});
+        </script>
 
 
         <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
