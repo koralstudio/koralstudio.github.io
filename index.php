@@ -18,7 +18,7 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
 
-        <!-- <div id="fullpage">
+        <div id="fullpage">
 	        <div class="section">
 			    <div class="slide"> Slide 1 </div>
 			    <div class="slide"> Slide 2 </div>
@@ -35,7 +35,7 @@
 			    <div class="slide"> Slide 3 </div>
 			    <div class="slide"> Slide 4 </div>
 			</div>
-		</div> -->
+		</div>
 
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
         <script src="bower_components/fullpage.js/dist/jquery.fullpage.min.js"></script>
